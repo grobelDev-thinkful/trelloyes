@@ -4,11 +4,6 @@ import './App.css';
 import STORE from './store';
 import List from './composition/List';
 
-// console.log(STORE);
-
-// const testList = (
-//   <List></List>
-// )
 
 function App() {
   // console.log(STORE);
