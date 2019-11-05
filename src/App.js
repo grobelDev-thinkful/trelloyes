@@ -14,6 +14,9 @@ function App() {
   // console.log(STORE);
   return (
     <main className='App'>
+      <div className='App-header'>
+        <h1>Trelloyes!</h1>
+      </div>
       <div className='App-list'>
       {STORE.lists.map(list => (
         <List 
